@@ -1,25 +1,4 @@
 
-/*============== COMMON Css ==============*/
-html {
-  scroll-behavior: smooth;
-}
-
-body {
-  font-family: "Inter", sans-serif;
-  font-weight: normal;
-  font-style: normal;
-  color: #6a7280;
-  overflow-x: hidden;
-  background: #f9fafb;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
 a:focus,
 input:focus,
 textarea:focus,
